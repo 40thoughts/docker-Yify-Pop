@@ -11,7 +11,7 @@ The purpose of the Yify-Pop image is to provide you a `Popcorn-Time`-like app us
 
 * Just run the image by executing this command :
 
-        sudo docker run -d --name yify-pop -p 4000:4000 -p 8889:8889 -p 8890:8890 -p 8891:8891 -p 8892:8892 e34876b630a8
+        sudo docker run -d --name yify-pop -p 4000:4000 -p 8889:8889 -p 8890:8890 -p 8891:8891 -p 8892:8892 crazybud/yify-pop
 
 It runs a container called `yify-pop` as demon with port `4000` as http and the others for stream sources (4 in this exemple).
 It's up to you to add ports for allowing more clients to watch at the same time.
