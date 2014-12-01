@@ -22,6 +22,6 @@ Please, avoid to change default ports (4000 and 8889) you may have some bugs for
 ## Have fun
 
 And now, open your navigator and type this in the adress bar : `http://<host ip>:4000`.<br/>
-If you installed this container on your desktop just type `http://localhost:8112` or [click here](http://localhost:4000)
+If you installed this container on your desktop just type `http://localhost:4000` or [click here](http://localhost:4000)
 
 That's it !!!
